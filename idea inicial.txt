@@ -1,0 +1,8 @@
+El juego consiste en un qlo virtual
+
+El juego empieza con una baraja y se reparte de forma equitativa entre los jugadores. Se juega por rondasy gana el que se quede sin cartas
+
+empieza el 2 de corazones y puede iniciar tirando 1,2,3 o cartas del mismo número, esto indica cuantas cartas iguales se deberán tirar por turno en esa ronda.
+
+Si es igual salta al siguiente jugador, el A´s barre y el 3 es la carta mas alta.
+
